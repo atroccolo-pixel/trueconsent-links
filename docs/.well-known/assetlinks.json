@@ -1,0 +1,4 @@
+trueconsent-links/
+└── docs/
+    └── .well-known/
+        └── assetlinks.json
