@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.trueconsent.app",
+      "sha256_cert_fingerprints": [
+          "4A:F8:9D:8A:E7:6D:6E:F7:55:21:FF:44:C2:32:A4:D7:E2:DB:7C:D4:2C:FE:5D:92:7D:03:A2:F0:28:FD:A1:13"
+      ]
+    }
+  }
+]
